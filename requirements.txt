@@ -1,5 +1,5 @@
-torch==2.1.0
-torchvision==0.16.0
+torch==2.6.0
+torchvision==0.21.0
 pytorch-lightning==0.7.5
 test-tube
 kornia==0.2.0
@@ -16,3 +16,4 @@ pyglet
 # for point cloud
 plyfile
 open3d
+
